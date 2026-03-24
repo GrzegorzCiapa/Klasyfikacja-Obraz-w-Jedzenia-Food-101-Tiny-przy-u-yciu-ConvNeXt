@@ -39,4 +39,4 @@ Celem tego projektu jest zbudowanie, wytrenowanie i ocena modelu głębokiego uc
 * **Predykcja Interaktywna:** Komórka z `files.upload()`, która przyjmuje obraz z dysku użytkownika i zwraca klasę.
 
 ---
-*Projekt stanowi przykład implementacji nowoczesnej sieci konwolucyjnej do problemu klasyfikacji obrazów przy użyciu środowiska PyTorch.*
+
