@@ -1,6 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyh1upOYTEzTxvIPEODHlkw0zBBWWx0S)
 # Klasyfikacja Obrazów Jedzenia (Food-101 Tiny) przy użyciu ConvNeXt
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyh1upOYTEzTxvIPEODHlkw0zBBWWx0S)
+
 
 **Autor:** Grzegorz Ciapa  
 **Technologie:** Python, PyTorch, Torchvision, Scikit-learn, Matplotlib, Seaborn
